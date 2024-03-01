@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\guiga\OneDrive\Área de Trabalho\TI2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
